@@ -1,8 +1,8 @@
 
 // Nombre, Apellido
 
-let nombre = "Gian Franco";
-let apellido = "Crova";
+let nombre = "Pablo";
+let apellido = "Gonzalez";
 
 // Concatenar strings
 
@@ -29,5 +29,6 @@ let borrarEsp = estudiante.trim();
 // Saber si se encuentra la var "nombre" en el string de la var "estudiante"
 
 let buscarNom = estudiante.includes(nombre);
+
 
 
